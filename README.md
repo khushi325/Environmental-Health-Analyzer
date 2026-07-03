@@ -18,9 +18,6 @@ A responsive web dashboard that analyzes environmental conditions across Indian 
 * JavaScript
 * Chart.js
 
-## Project Screenshots
-
-(Add screenshots here)
 
 ## How to Run
 
